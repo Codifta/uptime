@@ -3,8 +3,10 @@ owner: Codifta # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
+  - name: Date
     url: https://dubae.vip
+  - name: Apns
+    url: https://sameerjunaid.tk
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
