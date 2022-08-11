@@ -4,18 +4,20 @@
     "url": "https://dubae.vip",
     "icon": "https://favicons.githubusercontent.com/dubae.vip",
     "slug": "date",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2210,
-    "timeDay": 2210,
-    "timeWeek": 2210,
-    "timeMonth": 2210,
-    "timeYear": 2210,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1870,
+    "timeDay": 1870,
+    "timeWeek": 1870,
+    "timeMonth": 1870,
+    "timeYear": 1870,
+    "dailyMinutesDown": {
+      "2022-08-11": 0
+    }
   },
   {
     "name": "Apns",
