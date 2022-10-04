@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "date",
     "status": "up",
-    "uptime": "95.56%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "95.56%",
+    "uptimeYear": "95.57%",
     "time": 2090,
     "timeDay": 2281,
     "timeWeek": 2140,
@@ -38,9 +38,9 @@
     "url": "https://sameerjunaid.tk",
     "icon": "https://icons.duckduckgo.com/ip3/sameerjunaid.tk.ico",
     "slug": "apns",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "98.57%",
@@ -50,6 +50,7 @@
     "timeMonth": 1079,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2022-10-04": 0,
       "2022-09-05": 316,
       "2022-09-04": 789
     }
