@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sameerjunaid.tk.ico",
     "slug": "apns",
     "status": "down",
-    "uptime": "65.95%",
+    "uptime": "65.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -93,7 +93,7 @@
     "timeMonth": 0,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2023-09-01": 1288,
+      "2023-09-01": 1294,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -247,19 +247,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 285,
-    "timeWeek": 139,
-    "timeMonth": 263,
+    "time": 139,
+    "timeDay": 217,
+    "timeWeek": 132,
+    "timeMonth": 258,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-09-01": 0
+      "2023-09-01": 6
     }
   }
 ]
