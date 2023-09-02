@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.56%",
-    "time": 3050,
-    "timeDay": 3195,
-    "timeWeek": 3005,
-    "timeMonth": 3313,
+    "time": 3049,
+    "timeDay": 2874,
+    "timeWeek": 2980,
+    "timeMonth": 3310,
     "timeYear": 3159,
     "dailyMinutesDown": {
       "2023-07-26": 18,
@@ -72,8 +72,7 @@
       "2022-09-18": 15,
       "2022-09-15": 221,
       "2022-09-07": 36,
-      "2022-09-04": 138,
-      "2022-09-02": 38
+      "2022-09-04": 138
     }
   },
   {
@@ -82,18 +81,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sameerjunaid.tk.ico",
     "slug": "apns",
     "status": "down",
-    "uptime": "65.94%",
+    "uptime": "65.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.93%",
+    "uptimeYear": "63.89%",
     "time": 1198,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2023-09-01": 1294,
+      "2023-09-02": 64,
+      "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -249,17 +249,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 217,
-    "timeWeek": 132,
+    "timeDay": 222,
+    "timeWeek": 134,
     "timeMonth": 258,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2023-09-01": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
