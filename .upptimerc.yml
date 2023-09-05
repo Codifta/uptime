@@ -6,7 +6,7 @@ sites:
   - name: Date
     url: https://dubae.vip
   - name: Apns
-    url: https://sameerjunaid.tk
+    url:  https://dubae.vip/push/rest_notification.php
   - name: Google
     url: https://www.google.com
 
