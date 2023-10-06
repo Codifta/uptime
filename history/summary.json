@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "date",
     "status": "up",
-    "uptime": "96.49%",
+    "uptime": "96.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.66%",
     "uptimeMonth": "99.46%",
@@ -14,7 +14,7 @@
     "timeDay": 2595,
     "timeWeek": 3211,
     "timeMonth": 3104,
-    "timeYear": 3326,
+    "timeYear": 3328,
     "dailyMinutesDown": {
       "2023-10-04": 236,
       "2023-07-26": 18,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
     "status": "up",
-    "uptime": "67.88%",
+    "uptime": "67.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.66%",
     "uptimeMonth": "99.46%",
@@ -239,17 +239,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 58,
-    "timeWeek": 80,
-    "timeMonth": 135,
-    "timeYear": 130,
-    "dailyMinutesDown": {}
+    "time": 141,
+    "timeDay": 285,
+    "timeWeek": 134,
+    "timeMonth": 147,
+    "timeYear": 131,
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   }
 ]
