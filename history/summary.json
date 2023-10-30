@@ -6,7 +6,7 @@
     "slug": "date",
     "status": "up",
     "uptime": "95.32%",
-    "uptimeDay": "5.15%",
+    "uptimeDay": "5.55%",
     "uptimeWeek": "12.92%",
     "uptimeMonth": "79.42%",
     "uptimeYear": "94.98%",
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
     "status": "up",
-    "uptime": "69.64%",
+    "uptime": "69.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
@@ -236,19 +236,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 251,
-    "timeWeek": 131,
-    "timeMonth": 123,
+    "timeDay": 190,
+    "timeWeek": 124,
+    "timeMonth": 121,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 6
     }
   }
 ]
