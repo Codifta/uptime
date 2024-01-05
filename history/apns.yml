@@ -1,7 +1,7 @@
 url: https://dubae.vip/push/rest_notification.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T20:23:31.456Z
+status: up
+code: 200
+responseTime: 15
+lastUpdated: 2024-01-05T20:28:13.563Z
 startTime: 2022-08-11T08:00:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
