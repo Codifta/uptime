@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.94%",
-    "time": 3115,
-    "timeDay": 3169,
-    "timeWeek": 3068,
-    "timeMonth": 2928,
+    "time": 3116,
+    "timeDay": 2788,
+    "timeWeek": 3000,
+    "timeMonth": 2920,
     "timeYear": 2809,
     "dailyMinutesDown": {
       "2024-07-05": 18,
@@ -52,15 +52,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
     "status": "up",
-    "uptime": "81.87%",
+    "uptime": "81.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.77%",
     "time": 441,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 221,
+    "timeDay": 196,
+    "timeWeek": 211,
+    "timeMonth": 219,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2024-07-05": 17,
@@ -81,8 +81,7 @@
       "2023-11-04": 423,
       "2023-10-04": 236,
       "2023-09-05": 310,
-      "2023-09-04": 1440,
-      "2023-09-03": 1440
+      "2023-09-04": 1440
     }
   },
   {
@@ -97,10 +96,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 125,
-    "timeWeek": 105,
-    "timeMonth": 116,
-    "timeYear": 112,
+    "timeDay": 65,
+    "timeWeek": 103,
+    "timeMonth": 115,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2024-05-01": 42
     }
