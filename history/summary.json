@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.70%",
-    "time": 2838,
-    "timeDay": 2763,
-    "timeWeek": 2830,
-    "timeMonth": 2811,
+    "time": 2840,
+    "timeDay": 2770,
+    "timeWeek": 2849,
+    "timeMonth": 2810,
     "timeYear": 2798,
     "dailyMinutesDown": {
       "2024-11-27": 38,
@@ -40,8 +40,7 @@
       "2024-01-15": 18,
       "2024-01-08": 15,
       "2024-01-06": 309,
-      "2024-01-05": 574,
-      "2023-12-23": 17
+      "2024-01-05": 574
     }
   },
   {
@@ -50,14 +49,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
     "status": "up",
-    "uptime": "84.19%",
+    "uptime": "84.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.73%",
-    "time": 274,
-    "timeDay": 228,
-    "timeWeek": 229,
+    "time": 273,
+    "timeDay": 207,
+    "timeWeek": 226,
     "timeMonth": 218,
     "timeYear": 259,
     "dailyMinutesDown": {
@@ -79,8 +78,7 @@
       "2024-02-07": 18,
       "2024-02-06": 16,
       "2024-01-06": 306,
-      "2024-01-05": 572,
-      "2023-12-23": 16
+      "2024-01-05": 572
     }
   },
   {
@@ -96,7 +94,7 @@
     "uptimeYear": "99.99%",
     "time": 109,
     "timeDay": 89,
-    "timeWeek": 102,
+    "timeWeek": 100,
     "timeMonth": 99,
     "timeYear": 102,
     "dailyMinutesDown": {
