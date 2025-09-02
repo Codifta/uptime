@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
     "status": "up",
-    "uptime": "87.71%",
+    "uptime": "87.72%",
     "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.91%",
@@ -107,17 +107,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 88,
-    "timeWeek": 82,
-    "timeMonth": 102,
-    "timeYear": 106,
-    "dailyMinutesDown": {}
+    "timeDay": 264,
+    "timeWeek": 127,
+    "timeMonth": 112,
+    "timeYear": 107,
+    "dailyMinutesDown": {
+      "2025-09-02": 0
+    }
   }
 ]
