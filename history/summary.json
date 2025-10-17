@@ -4,18 +4,19 @@
     "url": "https://dubae.vip",
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "date",
-    "status": "up",
+    "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "96.38%",
-    "time": 2420,
-    "timeDay": 3142,
-    "timeWeek": 2969,
-    "timeMonth": 2861,
-    "timeYear": 2288,
+    "time": 2418,
+    "timeDay": 2585,
+    "timeWeek": 2933,
+    "timeMonth": 2840,
+    "timeYear": 2287,
     "dailyMinutesDown": {
+      "2025-10-17": 1,
       "2025-10-15": 39,
       "2025-10-09": 19,
       "2025-10-04": 445,
@@ -53,8 +54,7 @@
       "2024-12-26": 15,
       "2024-11-27": 38,
       "2024-11-04": 17,
-      "2024-10-18": 21,
-      "2024-10-17": 70
+      "2024-10-18": 21
     }
   },
   {
@@ -62,18 +62,19 @@
     "url": "https://dubae.vip/push/rest_notification.php",
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
-    "status": "up",
-    "uptime": "88.15%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.45%",
+    "status": "down",
+    "uptime": "88.16%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.63%",
     "time": 236,
-    "timeDay": 318,
-    "timeWeek": 280,
-    "timeMonth": 269,
+    "timeDay": 231,
+    "timeWeek": 285,
+    "timeMonth": 268,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2025-10-17": 0,
       "2025-10-15": 38,
       "2025-10-09": 17,
       "2025-10-04": 445,
@@ -98,8 +99,7 @@
       "2025-02-16": 42,
       "2024-11-27": 37,
       "2024-11-04": 16,
-      "2024-10-18": 21,
-      "2024-10-17": 70
+      "2024-10-18": 21
     }
   },
   {
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 90,
+    "timeDay": 84,
     "timeWeek": 85,
-    "timeMonth": 107,
-    "timeYear": 108,
+    "timeMonth": 106,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   }
 ]
