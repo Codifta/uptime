@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "date",
     "status": "down",
-    "uptime": "83.93%",
+    "uptime": "83.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.58%",
-    "time": 1706,
-    "timeDay": 661,
-    "timeWeek": 701,
+    "uptimeYear": "44.32%",
+    "time": 1702,
+    "timeDay": 619,
+    "timeWeek": 686,
     "timeMonth": 754,
-    "timeYear": 1275,
+    "timeYear": 1267,
     "dailyMinutesDown": {
-      "2026-04-27": 210,
+      "2026-04-28": 215,
+      "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -228,8 +229,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 855,
       "2025-05-12": 433,
-      "2025-05-11": 312,
-      "2025-04-28": 35
+      "2025-05-11": 312
     }
   },
   {
@@ -242,10 +242,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.67%",
     "time": 235,
-    "timeDay": 200,
-    "timeWeek": 208,
+    "timeDay": 191,
+    "timeWeek": 203,
     "timeMonth": 230,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -262,8 +262,7 @@
       "2025-07-31": 20,
       "2025-06-24": 22,
       "2025-05-12": 392,
-      "2025-05-11": 312,
-      "2025-04-28": 35
+      "2025-05-11": 312
     }
   },
   {
@@ -278,8 +277,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 87,
-    "timeWeek": 115,
+    "timeDay": 77,
+    "timeWeek": 112,
     "timeMonth": 107,
     "timeYear": 122,
     "dailyMinutesDown": {
