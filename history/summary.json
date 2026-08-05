@@ -257,7 +257,7 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2026-08-05": 19,
+      "2026-08-05": 59,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -313,16 +313,16 @@
     "url": "https://dubae.vip/push/rest_notification.php",
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "90.84%",
-    "uptimeMonth": "86.63%",
-    "uptimeYear": "98.66%",
+    "uptimeDay": "97.21%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "86.53%",
+    "uptimeYear": "98.65%",
     "time": 296,
-    "timeDay": 0,
-    "timeWeek": 360,
-    "timeMonth": 413,
+    "timeDay": 330,
+    "timeWeek": 358,
+    "timeMonth": 412,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -356,7 +356,7 @@
       "2026-07-31": 370,
       "2026-08-01": 44,
       "2026-08-03": 146,
-      "2026-08-05": 0
+      "2026-08-05": 40
     }
   },
   {
