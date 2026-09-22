@@ -4,13 +4,13 @@
     "url": "https://dubae.vip",
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "date",
-    "status": "up",
-    "uptime": "78.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "78.48%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "18.99%",
-    "time": 1071,
+    "time": 1072,
     "timeDay": 343,
     "timeWeek": 556,
     "timeMonth": 1072,
@@ -317,7 +317,8 @@
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
-      "2026-06-18": 790
+      "2026-06-18": 790,
+      "2026-09-22": 9
     }
   },
   {
@@ -325,9 +326,9 @@
     "url": "https://dubae.vip/push/rest_notification.php",
     "icon": "https://icons.duckduckgo.com/ip3/dubae.vip.ico",
     "slug": "apns",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.40%",
@@ -375,7 +376,8 @@
       "2026-08-12": 132,
       "2026-08-13": 202,
       "2026-08-14": 74,
-      "2026-08-15": 23
+      "2026-08-15": 23,
+      "2026-09-22": 0
     }
   },
   {
